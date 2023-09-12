@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_13964907"
-version = "0.1.10"
+version = "0.1.11"
 description = "uni_repo"
 authors = ["zoe_barrett"]
 license = "None"
@@ -8,10 +8,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-pandas = "*"
-scikit-learn = "*"
-numpy = "*"
-scipy = "*"
 
 [tool.poetry.dev-dependencies]
 
